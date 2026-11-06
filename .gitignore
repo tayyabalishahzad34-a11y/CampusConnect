@@ -1,0 +1,6 @@
+# Ignore uploaded images, but keep the folder structure
+uploads/*
+!uploads/.gitkeep
+
+# Optional: Ignore your database file if you don't want your local passwords public
+# db.php
